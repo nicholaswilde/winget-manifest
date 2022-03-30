@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-03-29T09:18:47.307-00:00",
+	"CreationDate" : "2022-03-29T17:07:17.694-00:00",
 	"Sources" : 
 	[
 		{
@@ -28,13 +28,16 @@
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Twilio.Authy"
 				},
 				{
 					"PackageIdentifier" : "Balena.Etcher"
@@ -53,6 +56,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "LogMeIn.LastPass"
 				},
 				{
 					"PackageIdentifier" : "GitHub.cli"
