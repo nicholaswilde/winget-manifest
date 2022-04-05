@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-04-03T17:31:53.393-00:00",
+	"CreationDate" : "2022-04-05T11:42:30.706-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,6 +8,9 @@
 			[
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
 				},
 				{
 					"PackageIdentifier" : "Git.Git"
@@ -43,6 +46,9 @@
 					"PackageIdentifier" : "Twilio.Authy"
 				},
 				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
 					"PackageIdentifier" : "Balena.Etcher"
 				},
 				{
@@ -53,6 +59,9 @@
 				},
 				{
 					"PackageIdentifier" : "PersepolisDownloadManager.Persepolis"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
 				},
 				{
 					"PackageIdentifier" : "Google.Drive"
@@ -67,16 +76,22 @@
 					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
 				},
 				{
+					"PackageIdentifier" : "GitHub.cli"
+				},
+				{
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
-					"PackageIdentifier" : "GitHub.cli"
+					"PackageIdentifier" : "Keybase.Keybase"
 				},
 				{
 					"PackageIdentifier" : "dorssel.usbipd-win"
 				},
 				{
 					"PackageIdentifier" : "GoLang.Go"
+				},
+				{
+					"PackageIdentifier" : "dokan-dev.Dokany"
 				}
 			],
 			"SourceDetails" : 
