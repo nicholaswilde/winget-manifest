@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-04-06T07:28:23.984-00:00",
+	"CreationDate" : "2022-04-06T12:00:37.653-00:00",
 	"Sources" : 
 	[
 		{
@@ -74,6 +74,9 @@
 				},
 				{
 					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
 				},
 				{
 					"PackageIdentifier" : "GitHub.cli"
