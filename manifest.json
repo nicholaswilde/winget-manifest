@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-04-17T14:15:37.936-00:00",
+	"CreationDate" : "2022-04-27T13:05:55.292-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,6 +8,9 @@
 			[
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord.PTB"
 				},
 				{
 					"PackageIdentifier" : "GitHub.GitHubDesktop"
@@ -115,5 +118,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.10751"
+	"WinGetVersion" : "1.2.10941"
 }
