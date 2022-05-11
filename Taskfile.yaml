@@ -1,0 +1,21 @@
+---
+version: '3'
+
+
+vars:
+  TEST:
+    sh: pwd
+
+tasks:
+  export:
+    desc: Export winget manifest
+    cmds:
+      - "powershell -noexit '& ./scripts/export.ps1'"
+  import:
+    desc: Import winget manifest
+    cmds:
+      - "powershell -noexit '& ./scripts/import.ps1'"
+  default:
+    cmds:
+      - task -a
+    silent: true
