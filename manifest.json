@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-11T10:38:45.752-00:00",
+	"CreationDate" : "2022-05-18T08:54:06.559-00:00",
 	"Sources" : 
 	[
 		{
@@ -11,6 +11,9 @@
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord.PTB"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
 					"PackageIdentifier" : "GitHub.GitHubDesktop"
@@ -35,6 +38,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
 					"PackageIdentifier" : "OBSProject.OBSStudio"
@@ -67,7 +73,7 @@
 					"PackageIdentifier" : "Yubico.YubiKeyPersonalizationTool"
 				},
 				{
-					"PackageIdentifier" : "LogMeIn.LastPass"
+					"PackageIdentifier" : "Zoom.Zoom"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
@@ -76,7 +82,7 @@
 					"PackageIdentifier" : "PersepolisDownloadManager.Persepolis"
 				},
 				{
-					"PackageIdentifier" : "GoLang.Go"
+					"PackageIdentifier" : "LogMeIn.LastPass"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
@@ -85,16 +91,16 @@
 					"PackageIdentifier" : "Google.Drive"
 				},
 				{
+					"PackageIdentifier" : "GitHub.cli"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
 				},
 				{
-					"PackageIdentifier" : "Zoom.Zoom"
-				},
-				{
-					"PackageIdentifier" : "GitHub.cli"
+					"PackageIdentifier" : "GoLang.Go"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
