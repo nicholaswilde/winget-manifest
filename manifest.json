@@ -1,11 +1,29 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-18T08:54:06.559-00:00",
+	"CreationDate" : "2022-05-30T22:17:41.403-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
+				{
+					"PackageIdentifier" : "9PLHBG7K1WZN"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "OpenWhisperSystems.Signal"
+				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu"
 				},
@@ -76,6 +94,9 @@
 					"PackageIdentifier" : "Zoom.Zoom"
 				},
 				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
 				},
 				{
@@ -88,10 +109,10 @@
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
 				},
 				{
-					"PackageIdentifier" : "Google.Drive"
+					"PackageIdentifier" : "GitHub.cli"
 				},
 				{
-					"PackageIdentifier" : "GitHub.cli"
+					"PackageIdentifier" : "Google.Drive"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
@@ -101,9 +122,6 @@
 				},
 				{
 					"PackageIdentifier" : "GoLang.Go"
-				},
-				{
-					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
 					"PackageIdentifier" : "Keybase.Keybase"
