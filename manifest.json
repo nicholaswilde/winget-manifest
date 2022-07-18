@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-30T22:17:41.403-00:00",
+	"CreationDate" : "2022-07-18T16:08:35.612-00:00",
 	"Sources" : 
 	[
 		{
@@ -23,6 +23,9 @@
 			[
 				{
 					"PackageIdentifier" : "OpenWhisperSystems.Signal"
+				},
+				{
+					"PackageIdentifier" : "ArduinoSA.IDE.beta"
 				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu"
@@ -73,6 +76,9 @@
 					"PackageIdentifier" : "Twilio.Authy"
 				},
 				{
+					"PackageIdentifier" : "evsar3.sshfs-win-manager"
+				},
+				{
 					"PackageIdentifier" : "Obsidian.Obsidian"
 				},
 				{
@@ -103,25 +109,28 @@
 					"PackageIdentifier" : "PersepolisDownloadManager.Persepolis"
 				},
 				{
-					"PackageIdentifier" : "LogMeIn.LastPass"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
-				},
-				{
-					"PackageIdentifier" : "GitHub.cli"
 				},
 				{
 					"PackageIdentifier" : "Google.Drive"
 				},
 				{
+					"PackageIdentifier" : "SSHFS-Win.SSHFS-Win"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "WinFsp.WinFsp"
+				},
+				{
+					"PackageIdentifier" : "GoLang.Go"
 				},
 				{
 					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
 				},
 				{
-					"PackageIdentifier" : "GoLang.Go"
+					"PackageIdentifier" : "GitHub.cli"
 				},
 				{
 					"PackageIdentifier" : "Keybase.Keybase"
@@ -145,5 +154,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.10941"
+	"WinGetVersion" : "1.2.11601"
 }
